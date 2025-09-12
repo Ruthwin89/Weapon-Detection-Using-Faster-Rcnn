@@ -8,6 +8,9 @@
 
 An advanced, deep learning-based surveillance system designed to automatically detect weapons like guns and knives in images and video feeds in real-time. This project leverages the **Faster R-CNN** algorithm for high-accuracy object detection and features a user-friendly, radar-themed GUI built with Tkinter.
 
+🛑🎞️🎥LIVE DEMO
+
+
 ## ✨ Features
 
 - **Real-Time Detection**: Identify weapons in both images and live video streams.
