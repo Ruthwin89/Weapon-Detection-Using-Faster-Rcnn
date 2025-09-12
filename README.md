@@ -10,6 +10,7 @@ An advanced, deep learning-based surveillance system designed to automatically d
 
 🛑🎞️🎥LIVE DEMO
 
+https://ruthwin89.github.io/Weapon-Detection-Using-Faster-Rcnn/
 
 ## ✨ Features
 
